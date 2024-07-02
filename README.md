@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/Md-Ashikur-Rahman-Ashik/Md-Ashikur-Rahman-Ashik/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/ashik2005)</p>
+[<p align="center"><img height="75" src="https://github.com/Md-Ashikur-Rahman-Ashik/Md-Ashikur-Rahman-Ashik/blob/main/images/icons/Linkedin.png"></p>](https://www.linkedin.com/in/ashik2005)
 
 <br />
 
