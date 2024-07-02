@@ -6,7 +6,7 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Md-Ashikur-Rahman-Ashik&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=00f0ff&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=000000&currStreakLabel=00f0ff&sideNums=00F0FF" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=Md-Ashikur-Rahman-Ashik&theme=dark&ring=1BEBCA&fire=EB5454&currStreakLabel=29E4EB&sideNums=14E4EB" />
 </p>
 
 ## :mailbox: Let's have a chat
