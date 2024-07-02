@@ -13,7 +13,9 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/ashik2005)</p>
+<p align="center"><a href="https://www.linkedin.com/in/ashik2005">
+<img src="https://github.com/Md-Ashikur-Rahman-Ashik/Md-Ashikur-Rahman-Ashik/blob/main/images/icons/Linkedin.png" />
+</a></p>
 
 <br />
 
