@@ -9,6 +9,14 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Md-Ashikur-Rahman-Ashik&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=00f0ff&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=000000&currStreakLabel=00f0ff&sideNums=00F0FF" />
 </p>
 
+## :mailbox: Let's have a chat
+
+<br />
+
+[<p align="center"><img height="75" src="https://github.com/Md-Ashikur-Rahman-Ashik/Md-Ashikur-Rahman-Ashik/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/ashik2005)
+
+<br />
+
 <!--
 **Md-Ashikur-Rahman-Ashik/Md-Ashikur-Rahman-Ashik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
