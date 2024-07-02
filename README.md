@@ -36,6 +36,16 @@
 </p>
 <br/>
 
+## :eyes: Overview
+
+### 🌱 I’m exploring - NextJS. 
+### 👯 I’m looking - To collaborate on open source projects. 
+### 🤔 I’m trying - To learn frontend technologies. 
+### ⚡ Fun fact - I am practicing spoken English.
+
+
+<br />
+
 <!--
 **Md-Ashikur-Rahman-Ashik/Md-Ashikur-Rahman-Ashik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
